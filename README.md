@@ -1,7 +1,7 @@
-##Description
-The goal of this exercise is to show a list of games from an API and be able to manage them (remove from the list, etc...) without changing the API data.
+## Description
+The goal of this exercise is to show a list of games fetching an API and be able to manage them (remove from the list, etc...) without changing the API data.
 
-##Deployed version
+## Deployed version
 https://react-gamelist.netlify.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
